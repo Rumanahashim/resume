@@ -48,20 +48,30 @@
 .card-body ul li i{
     color:darkgreen;
 }
+.card-skills{
+    margin-left: 20px;
+}
+.card-skills i{
+    color: darkgreen;
+}
 .heading1 i{
     color: darkgreen;
 
 }
 .heading1{
     margin-top: 10px;
+    margin-left: 20px;
 }
 .key i{
     color: darkgreen;
 }
 .paragraph{
     margin-top: 10px;
+    margin-left: 15px;
+    
 }
 .heading2{
     color:black;
     margin-top: 30px;
+    margin-left: 15px;
 }
